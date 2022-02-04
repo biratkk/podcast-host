@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Logo from './Logo.png'
 import './App.css'
 
 
@@ -14,6 +15,7 @@ const episodeArr = [
 export default function App(){
     return (
         <div>
+            <img src = {Logo}/>
             <h2>
             All episodes
             </h2>

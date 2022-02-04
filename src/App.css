@@ -5,6 +5,12 @@ audio{
     margin-top: 5px;
     width: 100vw;
 }
+img{
+    margin: 10px 0 0 10px;
+    border: 2px black solid;
+    width:200px;
+    height:200px;
+}
 
 .episode-container{
     border-bottom: 2px black solid;

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/podcast-host.github.io/static/css/main.30bf3d79.css",
+    "main.js": "/podcast-host.github.io/static/js/main.fcb6a4fd.js",
+    "static/media/Episode 1 - Who am I.mp3": "/podcast-host.github.io/static/media/Episode 1 - Who am I.d39913c441ea78ff2932.mp3",
+    "index.html": "/podcast-host.github.io/index.html",
+    "main.30bf3d79.css.map": "/podcast-host.github.io/static/css/main.30bf3d79.css.map",
+    "main.fcb6a4fd.js.map": "/podcast-host.github.io/static/js/main.fcb6a4fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30bf3d79.css",
+    "static/js/main.fcb6a4fd.js"
+  ]
+}

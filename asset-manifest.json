@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/podcast-host/static/css/main.30bf3d79.css",
-    "main.js": "/podcast-host/static/js/main.f929f009.js",
+    "main.css": "/podcast-host/static/css/main.672f3209.css",
+    "main.js": "/podcast-host/static/js/main.1096db1d.js",
     "static/media/Episode 1 - Who am I.mp3": "/podcast-host/static/media/Episode 1 - Who am I.d39913c441ea78ff2932.mp3",
     "index.html": "/podcast-host/index.html",
-    "main.30bf3d79.css.map": "/podcast-host/static/css/main.30bf3d79.css.map",
-    "main.f929f009.js.map": "/podcast-host/static/js/main.f929f009.js.map"
+    "main.672f3209.css.map": "/podcast-host/static/css/main.672f3209.css.map",
+    "main.1096db1d.js.map": "/podcast-host/static/js/main.1096db1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.30bf3d79.css",
-    "static/js/main.f929f009.js"
+    "static/css/main.672f3209.css",
+    "static/js/main.1096db1d.js"
   ]
 }

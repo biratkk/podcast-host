@@ -8,6 +8,11 @@ const episodeArr = [
         name:"Episode 1 - Who am I?",
         file:require('./Podcasts/Episode 1 - Who am I.mp3'),
         episode:1
+    },
+    {
+        name:"Episode 2 - Technology, Uni Life and Saving the Planet",
+        file:require('./Podcasts/Episode 2 - Friends and Co.mp3'),
+        episode:2
     }
 ];
 

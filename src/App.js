@@ -13,6 +13,11 @@ const episodeArr = [
         name:"Episode 2 - Technology, Uni Life and Saving the Planet",
         file:require('./Podcasts/Episode 2 - Friends and Co.mp3'),
         episode:2
+    },
+    {
+        name:"Episode 3 - Education, Purpose and Success",
+        file:require('./Podcasts/Episode 3 - Education, Purpose and Success.mp3'),
+        episode:3
     }
 ];
 
@@ -28,8 +33,8 @@ export default function App(){
                 episodeArr.map(episode => {
                     return (
                         <div className='episode-container'>
-                            <audio src={episode.file} controls={true} />
                             {episode.name}
+                            <audio src={episode.file} controls={true} />
                         </div>
                     )
                 })

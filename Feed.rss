@@ -32,5 +32,23 @@
                  type="audio/mpeg" length="43218583"/>
       <itunes:duration>53:25</itunes:duration>
     </item>
+    <item>
+      <title>Education, Purpose and Success</title>
+      <description>
+      In this episode, we explore how three people at very different stages in their life have the
+      different experienced that they do. We look at limitations of education and exam systems in schools,
+      globally but especially in Britain. We discuss how these limitations could be resolved. We proceed to discuss
+      the purpose in life and what everyone thinks success is.
+      Guests in this recording:
+
+      Ben Breen
+      Abhay Pherali
+      </description>
+      <pubDate>Tue, 08 Feb 2022 9:00:00 GMT</pubDate>
+      <enclosure url="https://biratkk.github.io/podcast-host/static/media/Episode%203%20-%20Education,%20Purpose%20and%20Success.807db6df5b9784b03860.mp3"
+                 type="audio/mpeg" 
+                 length="78495000"/>
+      <itunes:duration>1:21:03</itunes:duration>
+    </item>
   </channel>
 </rss>

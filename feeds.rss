@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="https://biratkk.github.io/podcast-host/feeds.rss" rel="self" type="application/rss+xml"/>
+        <!-- <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:248648864/sounds.rss?before=1260638230" rel="next" type="application/rss+xml"/> -->
+        <title>Yeetcode</title>
+        <link>https://biratkk.github.io/podcast-host/</link>
+        <pubDate>Sun, 01 May 2022 22:33:36 +0000</pubDate>
+        <lastBuildDate>Sun, 01 May 2022 22:33:36 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <description>A small insight into the lives of people that are surrounded by technology day by day.</description>
+        <itunes:subtitle>Podcast by Yeetcode</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Yeetcode</itunes:name>
+          <itunes:email>koiralabirat@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Birat Koirala</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:image href="https://lh3.googleusercontent.com/pw/AM-JKLWqjKCWHGnbLRHaxgHrL8CnJLTBEEsMVpdy8c9yLaIDDxOQcKQeDjJovmuCiMj836nA4V6ywAcbeNcAOERR2ZYUwvN3TMhs_Sh4VtCBqtWIgUtaOXSYZfFBvD2nAc-6wMlFe8BYXezqX6Pmdp2OlCXDGw=s800-no"/>
+        <image>
+          <url>https://i1.sndcdn.com/avatars-YVqoRE247oc9l6Pf-5BQ3iQ-original.jpg</url>
+          <title>Yeetcode</title>
+          <link>https://soundcloud.com/birat-koirala</link>
+        </image>
+        
+    <item>
+      <guid>1</guid>
+      <title>Episode 1 - Who am I?</title>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <link>https://biratkk.github.io/podcast-host/static/media/Episode%201%20-%20Who%20am%20I.d39913c441ea78ff2932.mp3</link>
+      <itunes:duration>00:03:02</itunes:duration>
+      <itunes:author>Birat Koirala</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <description>This episode is an introduction to who I am, my way of thinking and what I aim to do with the podcast. Hop on to discover what type of lives people lead in and around the field of technology and innovation.</description>
+      <enclosure type="audio/mpeg" url="https://biratkk.github.io/podcast-host/static/media/Episode%201%20-%20Who%20am%20I.d39913c441ea78ff2932.mp3" length="3252711"/>
+    </item>
+
+    <item>
+      <guid>2</guid>
+      <title>Episode 2 - Technology, Uni Life and Saving the Planet</title>
+      <pubDate>Wed, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <link>https://biratkk.github.io/podcast-host/static/media/Episode%202%20-%20Friends%20and%20Co.51b422623d81b7c31eb4.mp3</link>
+      <itunes:duration>00:53:25</itunes:duration>
+      <itunes:author>Birat Koirala</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <description>This podcast is an introduction to who I am, my way of thinking and what I aim to do with the podcast. Hop on to discover what type of lives people lead in and around the field of technology and innovation.</description>
+      <enclosure url="https://biratkk.github.io/podcast-host/static/media/Episode%202%20-%20Friends%20and%20Co.51b422623d81b7c31eb4.mp3" type="audio/mpeg" length="43218583"/>
+    </item>
+
+    <item>
+      <guid>3</guid>
+      <title>Episode 3 - Education, Purpose and Success</title>
+      <pubDate>Sun, 10 April 2022 00:00:00 +0000</pubDate>
+      <link>https://biratkk.github.io/podcast-host/static/media/Episode%203%20-%20Education,%20Purpose%20and%20Success.807db6df5b9784b03860.mp3</link>
+      <itunes:duration>01:21:03</itunes:duration>
+      <itunes:author>Birat Koirala</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      In this episode, we explore how three people at very different stages in their life have the
+      different experienced that they do. We look at limitations of education and exam systems in schools and institutions.
+      We discuss how these limitations could be resolved. We proceed to discuss
+      the purpose in life and what everyone thinks success is.
+      Guests in this recording:
+
+      Ben Breen
+      Abhay Pherali
+      </description>
+      <enclosure url="https://biratkk.github.io/podcast-host/static/media/Episode%203%20-%20Education,%20Purpose%20and%20Success.807db6df5b9784b03860.mp3"
+                 type="audio/mpeg" 
+                 length="78495000"/>
+    </item>
+    
+      </channel>
+    </rss>

@@ -1,19 +1,7 @@
 *{
     margin: 0;
 }
-audio{
-    margin-top: 5px;
-    width: 100vw;
-}
-img{
-    margin: 10px 0 0 10px;
-    border: 2px black solid;
-    width:200px;
-    height:200px;
-}
 
-.episode-container{
-    margin-top: 15px;
-    border-bottom: 2px black solid;
-    border-top: 2px black solid;
+body{
+    background-color: aliceblue;
 }

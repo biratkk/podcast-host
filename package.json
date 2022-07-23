@@ -19,7 +19,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build",
-    "pushToSite": "npm run build && npm run deploy && git add * && git commit -m \":rocket: Updated podcast\" && git push"
+    "moveRSS": "copy \"feeds.rss\" \"build/feeds.rss\"",
+    "updateGit": "git add * && git commit -m \":rocket: Updated podcast\" && git push",
+    "pushToSite": "npm run build && npm run moveRSS && npm run deploy && npm run updateGit"
   },
   "eslintConfig": {
     "extends": [

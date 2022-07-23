@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/podcast-host/static/css/main.59cf90ee.css",
-    "main.js": "/podcast-host/static/js/main.da78368e.js",
+    "main.js": "/podcast-host/static/js/main.56fde082.js",
     "static/media/Episode 3 - Education, Purpose and Success.mp3": "/podcast-host/static/media/Episode 3 - Education, Purpose and Success.807db6df5b9784b03860.mp3",
+    "static/media/Episode 4 - Education, Society and Objectivity.mp3": "/podcast-host/static/media/Episode 4 - Education, Society and Objectivity.b0aa974c253153799071.mp3",
     "static/media/Episode 2 - Friends and Co.mp3": "/podcast-host/static/media/Episode 2 - Friends and Co.51b422623d81b7c31eb4.mp3",
     "static/media/Episode 1 - Who am I.mp3": "/podcast-host/static/media/Episode 1 - Who am I.d39913c441ea78ff2932.mp3",
     "index.html": "/podcast-host/index.html",
     "main.59cf90ee.css.map": "/podcast-host/static/css/main.59cf90ee.css.map",
-    "main.da78368e.js.map": "/podcast-host/static/js/main.da78368e.js.map"
+    "main.56fde082.js.map": "/podcast-host/static/js/main.56fde082.js.map"
   },
   "entrypoints": [
     "static/css/main.59cf90ee.css",
-    "static/js/main.da78368e.js"
+    "static/js/main.56fde082.js"
   ]
 }

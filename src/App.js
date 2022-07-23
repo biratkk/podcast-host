@@ -20,7 +20,7 @@ const episodeArr = [
     episode: 3,
   },
   {
-    name: "Episode 4 - Episode 4 - Education, Society and Objectivity",
+    name: "Episode 4 - Education, Society and Objectivity",
     file: require("./Podcasts/Episode 4 - Education, Society and Objectivity.mp3"),
     episode: 4,
   },

@@ -48,13 +48,12 @@ export default function App() {
 }
 
 const Everything = styled.div`
-    margin-top: 100px;
-    display: flex;
-    justify-content: center;
-`
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+`;
 const MainBodyWrapper = styled.div`
   background-color: whitesmoke;
-  padding: 20px;
   font-family: Arial, Helvetica, sans-serif;
   border-radius: 10px;
   width: 450px;
@@ -72,17 +71,21 @@ const SubHeader = styled.div`
   font-size: x-large;
 `;
 
-const EpisodeContainer = styled.div``;
+const EpisodeContainer = styled.div`
+  position: relative;
+  padding: 10px;
+`;
 
 const Episode = styled.div`
+  position: relative;
   display: flex;
-  align-items: center;
+  flex-wrap: wrap;
   justify-content: center;
-  margin-top: 3vh;
-  width: 375px;
+  margin-top: 20px;
+  width: 90%;
   border-radius: 10px;
   box-shadow: 2px 10px 18px #888888;
-  padding: 2vh 2vw;
+  padding: 20px 20px;
 
   p {
     display: block;

@@ -17,7 +17,7 @@
         </itunes:owner>
         <itunes:author>Birat Koirala</itunes:author>
         <itunes:explicit>yes</itunes:explicit>
-        <itunes:image href="https://lh3.googleusercontent.com/pw/AM-JKLWqjKCWHGnbLRHaxgHrL8CnJLTBEEsMVpdy8c9yLaIDDxOQcKQeDjJovmuCiMj836nA4V6ywAcbeNcAOERR2ZYUwvN3TMhs_Sh4VtCBqtWIgUtaOXSYZfFBvD2nAc-6wMlFe8BYXezqX6Pmdp2OlCXDGw=s800-no"/>
+        <itunes:image href="https://raw.githubusercontent.com/biratkk/podcast-host/d79a40b88a3486d9dd31948afee7617be4d2fd1d/src/Logo.png"/>
         <image>
           <url>https://i1.sndcdn.com/avatars-YVqoRE247oc9l6Pf-5BQ3iQ-original.jpg</url>
           <title>Yeetcode</title>
